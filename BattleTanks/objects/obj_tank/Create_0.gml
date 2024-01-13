@@ -1,2 +1,1 @@
-speed_movement = 5;
-
+speed_movement = 3;
