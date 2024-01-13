@@ -34,9 +34,13 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"obj_music","path":"objects/obj_music/obj_music.yy",},},
+    {"id":{"name":"snd_shot","path":"sounds/snd_shot/snd_shot.yy",},},
     {"id":{"name":"obj_explosion","path":"objects/obj_explosion/obj_explosion.yy",},},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},},
+    {"id":{"name":"snd_explosion","path":"sounds/snd_explosion/snd_explosion.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
+    {"id":{"name":"snd_theme","path":"sounds/snd_theme/snd_theme.yy",},},
     {"id":{"name":"obj_shot","path":"objects/obj_shot/obj_shot.yy",},},
     {"id":{"name":"obj_tank","path":"objects/obj_tank/obj_tank.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
