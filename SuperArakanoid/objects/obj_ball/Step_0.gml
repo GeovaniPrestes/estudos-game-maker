@@ -1,2 +1,2 @@
 if(!gone)
-	x = obj_player.x;
+	x = clamp(obj_player.x, 32, room_width - 32);
