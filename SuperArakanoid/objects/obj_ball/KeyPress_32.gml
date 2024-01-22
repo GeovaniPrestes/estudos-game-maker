@@ -1,3 +1,6 @@
-speed = 10;
-direction = 90;
-gone = true;
+if(!started)
+{
+	speed = 10;
+	direction = 90;
+	started = true;
+}

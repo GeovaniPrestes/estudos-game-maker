@@ -1,1 +1,1 @@
-gone = false;
+started = false;
